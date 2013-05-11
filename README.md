@@ -2,7 +2,7 @@
 
 This project was written as a demo application for an Envato Tuts+ Series on using [Design Patterns in WordPress](http://wp.tutsplus.com/tutorials/creative-coding/design-patterns-in-wordpress-an-introduction/).
 
-This project is not an official WordPress plugin, theme, or application and is not meant to be run within the context of the WordPress application.
+This project is *not* an official WordPress plugin, theme, or application and is not meant to be run within the context of the WordPress application.
 
 It's meant to provide a working example of the Simple Factory design pattern.
 
@@ -20,7 +20,7 @@ It's meant to provide a working example of the Simple Factory design pattern.
 
 ## Installation
 
-1. Download a copy of the [latest tag]() from GitHub
+1. Download a copy of the [latest tag](https://github.com/tommcfarlin/simple-factory-example/archive/master.zip) from GitHub
 2. Extract the contents to a directory of your choice
 3. Run the `demo.php` script from the command-line to see the script in action
 
@@ -31,6 +31,6 @@ It's meant to provide a working example of the Simple Factory design pattern.
 
 ## Changelog
 
-### 1.0.0 (10 May 2013)
+### 1.0.0 (11 May 2013)
 
 * Initial release
