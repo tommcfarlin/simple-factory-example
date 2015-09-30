@@ -14,7 +14,7 @@ It's meant to provide a working example of the Simple Factory design pattern.
 * `lib/plugin.php` represents the core plugin file or, more specifically, how you would incorporate the Simple Factory into a WordPress plugin.
 * `lib/simple-factory.php` is the Simple Factory class itself that relies on a base class, its subclasses, and input to return the proper element
 * `lib/users/user.php` the abstract base class representing all users
-* `lib/users/admin.php` the subclass representing an Adminstrator with `read-write` privileges
+* `lib/users/admin.php` the subclass representing an Administrator with `read-write` privileges
 * `lib/users/reader.php` the subclass representing a Reader with `read` privileges
 * `lib/users/volunteer.php` the subclass representing a Volunteer with `help` privileges* 
 
